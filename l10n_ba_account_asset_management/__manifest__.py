@@ -8,6 +8,7 @@
     "excludes": ["account_asset"],
     "author": "Ernad Husremović",
     "website": "https://github.com/OCA/account-financial-tools",
+    "summary": "BiH fixed assets XLSX report with Bosnian labels, depreciation periods and status translations",
     "category": "Accounting & Finance",
     "data": [
     ],
