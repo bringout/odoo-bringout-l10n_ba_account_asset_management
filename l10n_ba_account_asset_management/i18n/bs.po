@@ -8,34 +8,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "'Konto' je obavezna stavka '_xls_%s_fields' liste !"
-msgstr "'Konto' je obavezna stavka '_xls_%s_fields' liste !"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Aktivirano"
-msgstr "Aktivirano"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Aktivna"
-msgstr "Aktivna"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Amort. period"
-msgstr "Amort. period"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Amort. ukupno"
-msgstr "Amort. ukupno"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
 #: model:ir.model,name:l10n_ba_account_asset_management.model_account_asset
@@ -43,159 +43,157 @@ msgid "Asset"
 msgstr "Osnovna sredstva"
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Broj godina/mjeseci"
-msgstr "Broj godina/mjeseci"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Datum otpisa"
-msgstr "Datum otpisa"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Duple izvještajne"
-msgstr "Duple izvještajne"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
 #: model:ir.model,name:l10n_ba_account_asset_management.model_report_account_asset_management_asset_report_xls
 msgid "Dynamic XLS asset report generator Bosna i Hercegovina"
-msgstr "Dynamic XLS asset report generator Bosna i Hercegovina"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Ime"
 msgstr "Ime"
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Konto"
-msgstr "Konto"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Metoda obračuna"
-msgstr "Metoda obračuna"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Nabavna vrijednost"
-msgstr "Nabavna vrijednost"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Nedostaje tabela amortizacije"
-msgstr "Nedostaje tabela amortizacije"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid ""
 "Nekonzistentna struktura izvještaja.\n"
 "Molimo ispravite grupu sredstva '{group}' (id {id})"
 msgstr ""
-"Nekonzistentna struktura izvještaja.\n"
-"Molimo ispravite grupu sredstva '{group}' (id {id})"
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "No"
 msgstr "Ne"
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Novonabavljena"
-msgstr "Novonabavljena"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Osnova"
-msgstr "Osnova"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Osnovica"
 msgstr "Osnovica"
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Otpisana"
-msgstr "Otpisana"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Proporcionalno"
-msgstr "Proporcionalno"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Razlog"
-msgstr "Razlog"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Referenca"
-msgstr "Referenca"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Rezervna vrijednost"
-msgstr "Rezervna vrijednost"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Sadašnja vrijednost"
-msgstr "Sadašnja vrijednost"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Sredstva koja se trebaju korigovati"
-msgstr "Sredstva koja se trebaju korigovati"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Status"
-msgstr "Status"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
 #: model:ir.model.fields,field_description:l10n_ba_account_asset_management.field_account_asset__status_bosanski
 msgid "Status po bosanski"
-msgstr "Status po bosanski"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Uklonjena"
-msgstr "Uklonjena"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Ukupno"
-msgstr "Ukupno"
+msgstr ""
 
 #. module: l10n_ba_account_asset_management
-#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py
+#: code:addons/l10n_ba_account_asset_management/report/account_asset_report_xls.py:0
 #, python-format
 msgid "Undetermined error"
 msgstr "Nedefinirana greška"
